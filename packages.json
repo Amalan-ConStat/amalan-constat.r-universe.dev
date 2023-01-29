@@ -6,5 +6,9 @@
     {
         "package": "SLPresElection",
         "url": "https://github.com/Amalan-ConStat/SLPresElection"
+    },
+    {
+        "package": "OlympicRshiny",
+        "url": "https://github.com/Amalan-ConStat/OlympicRshiny"
     }
 ]
