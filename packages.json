@@ -4,6 +4,10 @@
         "url": "https://github.com/Amalan-ConStat/fitODBOD"
     },
     {
+        "package": "fitODBODRshiny",
+        "url": "https://github.com/Amalan-ConStat/fitODBODRshiny"
+    },
+    {
         "package": "SLPresElection",
         "url": "https://github.com/Amalan-ConStat/SLPresElection"
     },
