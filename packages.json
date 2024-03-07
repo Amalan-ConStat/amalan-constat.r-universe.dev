@@ -14,5 +14,9 @@
     {
         "package": "OlympicRshiny",
         "url": "https://github.com/Amalan-ConStat/OlympicRshiny"
+    },
+    {
+        "package": "SouthParkRshiny",
+        "url": "https://github.com/Amalan-ConStat/SouthParkRshiny"
     }
 ]
