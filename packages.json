@@ -18,5 +18,9 @@
     {
         "package": "SouthParkRshiny",
         "url": "https://github.com/Amalan-ConStat/SouthParkRshiny"
+    },
+    {
+        "package": "NeEDS4BigData",
+        "url": "https://github.com/Amalan-ConStat/NeEDS4BigData"
     }
 ]
