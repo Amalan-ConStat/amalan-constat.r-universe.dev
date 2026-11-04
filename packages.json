@@ -22,5 +22,9 @@
     {
         "package": "NeEDS4BigData",
         "url": "https://github.com/Amalan-ConStat/NeEDS4BigData"
+    },
+    {
+        "package": "SLspatial",
+        "url": "https://github.com/Amalan-ConStat/SLspatial"
     }
 ]
